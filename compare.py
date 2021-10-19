@@ -9,9 +9,9 @@ import model
 parser = argparse.ArgumentParser()
 parser.add_argument('--dataset', type=str, default="CIFAR10")
 parser.add_argument('--model1', type=str, default="resnet20")
-parser.add_argument('--path1', type=str, default="models/ckpt_CIFAR10_1/model_epoch_2")
+parser.add_argument('--path1', type=str, default="models/ckpt_CIFAR10_1/model_epoch_200")
 parser.add_argument('--model2', type=str, default="resnet20")
-parser.add_argument('--path2', type=str, default="models/ckpt_CIFAR10_2/model_epoch_2")
+parser.add_argument('--path2', type=str, default="models/ckpt_CIFAR10_2/model_epoch_200")
 parser.add_argument('--dist', type=str, nargs='+', default=['1', '2', 'inf', 'cos'],
                     help='metric for computing distance, cos, 1, 2, or inf')
 arg = parser.parse_args()
