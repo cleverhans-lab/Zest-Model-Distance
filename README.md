@@ -1,4 +1,4 @@
-# A-Zest-of-LIME-Towards-Architecture-Independent-Model-Distances
+# Zest-Model-Distance
 
 This repository is an implementation of the paper [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j). In this paper, we propose an architecture-independent distance metric that measures the similarity between ML models by comparing their global behaviors, approximated using LIME. For more details, please read the paper.
 
