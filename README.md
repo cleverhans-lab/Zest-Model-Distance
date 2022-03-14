@@ -43,12 +43,11 @@ If you have any questions or suggestions, feel free to raise an issue or send me
 If you use this repository for academic research, you are highly encouraged (though not required) to cite our paper:
 ```
 @inproceedings{
-anonymous2022a,
+jia2022a,
 title={A Zest of {LIME}: Towards Architecture-Independent Model Distances},
-author={Anonymous},
-booktitle={Submitted to The Tenth International Conference on Learning Representations },
+author={Hengrui Jia and Hongyu Chen and Jonas Guan and Ali Shahin Shamsabadi and Nicolas Papernot},
+booktitle={International Conference on Learning Representations},
 year={2022},
-url={https://openreview.net/forum?id=OUz_9TiTv9j},
-note={under review}
+url={https://openreview.net/forum?id=OUz_9TiTv9j}
 }
 ```
